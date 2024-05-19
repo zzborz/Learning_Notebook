@@ -1,2 +1,2 @@
-# FPGA
+# Verlog语法学习
 
